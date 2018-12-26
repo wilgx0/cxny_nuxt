@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="container">
-      <!--导航-->
+      <!--导航666-->
       <nav-header :data="$store.state.navData" activeIndex="/"></nav-header>
       <!-- 幻灯片 -->
       <slide :data="$store.state.slideData"></slide>
